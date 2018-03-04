@@ -2,7 +2,7 @@
 kotti_solr
 ==========
 
-.. image:: https://pypip.in/version/kotti_solr/badge.svg
+.. image:: https://img.shields.io/pypi/v/kotti_solr.svg
     :target: https://pypi.python.org/pypi/kotti_solr/
     :alt: Latest Version
 
